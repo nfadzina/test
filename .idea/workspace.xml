@@ -2,34 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab44ed2b-b2fe-47d8-a3e4-262e10e9d3b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/diplom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doc1.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG_0558.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US20160060175A1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US2731564A.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US2843541A.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US2860322A.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US2867780A.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US2908579A.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US2922730A.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US3002861A.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US4587041.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US4959089.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US5328718.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US5451426.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US6303393.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US6461952B2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US6524970B1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US6905649B2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/US7077943B2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ice_screenshot_20190314-143940.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Министерство образования Республики Беларусь.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Оптические свойства многослойных пленочных структур.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG_0558.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US20160060175A1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US2731564A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US2843541A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US2860322A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US2867780A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US2908579A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US2922730A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US3002861A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US4587041.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US4959089.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US5328718.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US5451426.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US6303393.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US6461952B2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US6524970B1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US6905649B2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US7077943B2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ice_screenshot_20190314-143940.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Министерство образования Республики Беларусь.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Оптические свойства многослойных пленочных структур.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,10 +37,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="289">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -78,6 +78,11 @@
             <path>
               <item name="diplom" type="b2602c69:ProjectViewProjectNode" />
               <item name="diplom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diplom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diplom" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -115,12 +120,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556954452782</updated>
-      <workItem from="1556954457833" duration="862000" />
+      <workItem from="1556954457833" duration="2119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="862000" />
+    <option name="totallyTimeSpent" value="2119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -160,10 +165,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
